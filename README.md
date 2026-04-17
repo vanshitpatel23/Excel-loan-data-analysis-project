@@ -1,4 +1,4 @@
- 📊 Excel Data Analysis Project
+ 📊  loan Analysis Project
 
  🚀 Overview
 
